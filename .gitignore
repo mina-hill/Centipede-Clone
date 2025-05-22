@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.sdf
+*.opensdf
+
+# Build output
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ipch
